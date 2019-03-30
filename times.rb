@@ -1,4 +1,4 @@
 def using_times(x)
-	1+#{2}.times do
+	"#{x}".times do
     puts "Wingardium Leviosa"
 end
