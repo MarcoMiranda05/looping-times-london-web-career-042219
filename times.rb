@@ -1,3 +1,4 @@
-7.times do
+def using_times(x)
+	"x".times do
     puts "Wingardium Leviosa"
 end
